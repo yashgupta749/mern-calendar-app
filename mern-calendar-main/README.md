@@ -4,10 +4,6 @@ Calendar web application for adding, editing, deleting or listing other people's
 
 *API, CRUD, Auth system, JWT, Redux, Calendar.*
 
-## [Try demo](https://mern-redux-calendar.herokuapp.com/)
-
-<img src="./preview.jpeg">
-
 ### Table of contents 📃
 
 - [MERN Calendar](#mern-calendar)
@@ -33,7 +29,7 @@ Local installation:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Ju4npx/mern-calendar.git
+
 
 # Change directory to the project path
 $ cd mern-calendar
@@ -105,6 +101,3 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 * [Node.js](https://nodejs.org/) - Javascript runtime environment
 * [Express.js](https://expressjs.com/) - Backend framework
 * [MongoDB](https://www.mongodb.com/) - NoSQL database
-
----
-⌨️ with ❤️ by [Juan Pablo Machado](https://github.com/Ju4npx ) 😊 
